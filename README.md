@@ -1,0 +1,2 @@
+# MNIST-Classification-Using-CNN-From-The-Scratch
+This repository consists of the CNN implementation, which I have coded from the scratch, to classify handwritten digits using the MNIST dataset. The code also consists of other classification approaches, in particular, Linear Single-Layer Perceptron, Single-Layer Perceptron and Multi-layer Perceptron. The results of each classifier are present in the Outputs folder.
